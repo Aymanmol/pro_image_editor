@@ -1,0 +1,6 @@
+{
+  "appId": "com.aymanmol.pro_image_editor",
+  "appName": "Pro Image Editor",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
